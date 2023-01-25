@@ -1,0 +1,32 @@
+{
+    "cardápio": [
+      {
+        "id": 1,
+        "prato": "Raviolli",
+        "tempo de preparo": "25 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 2,
+        "prato": "Risoto",
+        "tempo de preparo": "30 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 3,
+        "prato": "Macarrão à putanesca",
+        "tempo de preparo": "32 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      },
+      {
+        "id": 4,
+        "prato": "Bistecca alla Fiorentina",
+        "tempo de preparo": "45 minutos",
+        "serve até": "1 pessoa",
+        "status": true
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+{
+    
+    "garçons" : [
+        {
+          "id" : 1 ,
+          "nome" : " Lucas " ,
+          "idade" : " 25 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        },
+        {
+          "id" : 2 ,
+          "nome" : " Allan " ,
+          "idade" : " 28 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        },
+        {
+          "id" : 3 ,
+          "nome" : " Lívia " ,
+          "idade" : " 23 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        },
+        {
+          "id" : 4 ,
+          "nome" : " Fernando " ,
+          "idade" : " 20 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        }
+        
+      ]
+}

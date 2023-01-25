@@ -1,0 +1,33 @@
+{
+    "chef's" : [
+        {
+          "id" : 1 ,
+          "nome" : " chef principal " ,
+          "idade" : " 45 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" :" verdadeiro"
+        },
+        {
+          "id" : 2 ,
+          "nome" : " sub-chef " ,
+          "idade" : " 34 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        },
+        {
+          "id" : 3 ,
+          "nome" : " trainee " ,
+          "idade" : " 27 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" :" verdadeiro"
+        },
+        {
+          "id" : 4 ,
+          "nome" : " cozinheiro " ,
+          "idade" : " 30 anos " ,
+          "carga horária" : " 20:00 - 02:00 " ,
+          "estado" : "verdadeiro"
+        }
+        
+      ]
+}

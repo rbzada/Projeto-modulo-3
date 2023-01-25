@@ -1,0 +1,32 @@
+{
+    "sobremesas": [
+        {
+          "id": 1,
+          "prato": "Panna Cotta",
+          "sobre": "Sobremesa de creme cozido e saborizado com baunilha. Textura super delicada e adocicada.",
+          "serve até": "1 pessoa",
+          "status": true
+        },
+        {
+          "id": 2,
+          "prato": "Cannolli",
+          "Sobre": "Massa doce frita, recheada com creme de queijo ricota com baunilha, pistache, chocolate ou frutas cristalizadas.",
+          "serve até": "1 pessoa",
+          "status": true
+        },
+        {
+          "id": 3,
+          "prato": "Zabaglione",
+          "Sobre": "Formado por: gemas, açucar e vinho marsala. Servido em uma taça, em que pode ser adicionado frutas picadas de sua preferências.",
+          "serve até": "1 pessoa",
+          "status": true
+        },
+        {
+          "id": 4,
+          "prato": "Bomboloni",
+          "Sobre": "Com uma massa parecida com um donut, porém sem buraco algum. pode ser recheado com creme de confeiteiro ou ganache. ",
+          "serve até": "1 pessoa",
+          "status": true
+        }
+      ]
+}
